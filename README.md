@@ -18,8 +18,8 @@ Predict which telecom customers are likely to churn and generate business insigh
 
 | Model | ROC-AUC |
 |------|--------|
-| Logistic Regression | X.XX |
-| Random Forest | X.XX |
+| Logistic Regression | 0.83 |
+| Random Forest | 0.81 |
 
 ## 🔍 Key Insights
 - Month-to-month customers have highest churn
