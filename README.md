@@ -6,6 +6,7 @@ Predict which telecom customers are likely to churn and generate business insigh
 ## 🛠 Tech Stack
 - Python
 - Pandas
+- NumPy
 - Scikit-learn
 - Seaborn
 - Matplotlib
